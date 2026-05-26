@@ -22,19 +22,20 @@
 <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,git,github,vscode" />
 </p>
 
----## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmdivyareddy18&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vmdivyareddy18&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vmdivyareddy18&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=vmdivyareddy18&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmdivyareddy18&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmdivyareddy18&layout=compact&theme=tokyonight" />
 </p>
+
 ## 🌸 Connect With Me
 
 📧 Email: vmdivyareddy18@gmail.com
