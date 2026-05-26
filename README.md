@@ -25,18 +25,7 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vmdivyareddy18&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vmdivyareddy18&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmdivyareddy18&layout=compact&theme=tokyonight" />
-</p>
----
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmdivyareddy18&theme=tokyonight" /> </p>
 
 ## 🌸 Connect With Me
 
