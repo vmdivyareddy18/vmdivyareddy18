@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm V.M Divya Reddy</h1>
+<h3 align="center">AIML Student | Open Source Beginner | Tech Enthusiast 💻</h3>
 
-<!--
-**vmdivyareddy18/vmdivyareddy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 👩‍💻 About Me
+
+🎓 1st Year AIML Student at Dayananda Sagar University  
+🌱 Currently learning Python & Web Development  
+🚀 GSSoC 2026 Contributor  
+💡 Interested in Artificial Intelligence & Problem Solving  
+🎮 Love gaming in free time  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,git,github,vscode" />
+</p>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vmdivyareddy18&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vmdivyareddy18&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmdivyareddy18&layout=compact&theme=tokyonight" />
+</p>
+---
+
+## 🌸 Connect With Me
+
+📧 Email: vmdivyareddy18@gmail.com
+
+💼 LinkedIn: vmdivyareddy18 
+
+---
+<p align="center">
+💙 <i>"Learning one step at a time & building my future in tech"</i> 💙
+</p>
