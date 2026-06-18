@@ -23,13 +23,7 @@
 </p>
 
 
-## 🌸 Connect With Me
 
-📧 Email: vmdivyareddy18@gmail.com
-
-💼 LinkedIn: vmdivyareddy18 
-
----
 <p align="center">
 💙 <i>"Learning one step at a time & building my future in tech"</i> 💙
 </p>
