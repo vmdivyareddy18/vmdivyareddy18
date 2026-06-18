@@ -22,6 +22,13 @@
 <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,git,github,vscode" />
 </p>
 
+## 🌸 Connect With Me
+
+📧 Email: vmdivyareddy18@gmail.com
+
+💼 LinkedIn: vmdivyareddy18 
+
+---
 
 
 <p align="center">
