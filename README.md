@@ -30,7 +30,3 @@
 
 ---
 
-
-<p align="center">
-💙 <i>"Learning one step at a time & building my future in tech"</i> 💙
-</p>
