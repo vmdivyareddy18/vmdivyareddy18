@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 🎓 2nd Year AIML Student at Dayananda Sagar University  
-🌱 Currently learning Python & Web Development  
+🌱 Currently learning Java & Web Development  
 🚀 GSSoC 2026 Contributor  
 💡 Interested in Artificial Intelligence & Problem Solving  
 🎮 Love gaming in free time  
